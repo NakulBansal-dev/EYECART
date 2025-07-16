@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/main/java/AddProductServlet.java=UTF-8
+encoding//src/main/java/AdminLoginServlet.java=UTF-8
+encoding//src/main/java/CategoryServlet.java=UTF-8
+encoding//src/main/java/DeleteProductServlet.java=UTF-8
+encoding//src/main/java/EditProductServlet.java=UTF-8
+encoding//src/main/webapp/home.jsp=UTF-8
+encoding//src/main/webapp/productDetails.jsp=UTF-8
+encoding//src/main/webapp/products.jsp=UTF-8
+encoding//src/main/webapp/view_products.jsp=UTF-8
